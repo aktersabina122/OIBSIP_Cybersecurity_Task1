@@ -1,4 +1,4 @@
-Place these screenshots here:
+Screenshots here:
 01_nmap_installation.png
 02_nmap_version.png
 03_ipconfig.png
